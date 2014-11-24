@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seeker", "Seeker\Seeker.csproj", "{404C0CC4-0FB1-40FC-8C9F-FE71F266BA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seeker.Tests", "Seeker.Tests\Seeker.Tests.csproj", "{5D19BE5F-E327-451C-B8C8-585F3F3B0909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404C0CC4-0FB1-40FC-8C9F-FE71F266BA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404C0CC4-0FB1-40FC-8C9F-FE71F266BA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404C0CC4-0FB1-40FC-8C9F-FE71F266BA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404C0CC4-0FB1-40FC-8C9F-FE71F266BA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D19BE5F-E327-451C-B8C8-585F3F3B0909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D19BE5F-E327-451C-B8C8-585F3F3B0909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D19BE5F-E327-451C-B8C8-585F3F3B0909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D19BE5F-E327-451C-B8C8-585F3F3B0909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
